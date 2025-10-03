@@ -1,3 +1,3 @@
 # GithubStatsVisualizer
 
-use this link : azlanabdulla.me
+use this link : https://azlanabdulla.me/GithubStatsVisualizer/
